@@ -1,4 +1,4 @@
-Name: Hayden McKenna
+Name: Hayden McKenna  
 Email: hayden_mckenna@icloud.com
 
 This project is designed using an arduino, PIR sensor, photoresistor, and stepper motor. The photoresistor measures the level of 
